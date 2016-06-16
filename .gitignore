@@ -1,1 +1,4 @@
+!.gitkeep
 /.idea
+/tests/compress/*
+/tests/decompress/*
